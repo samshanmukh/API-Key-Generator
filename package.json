@@ -36,6 +36,6 @@
     "passport-local": "latest",
     "passport-strategy": "latest",
     "should": "^11.2.1",
-    "validator": "^7.0.0"
+    "validator": "^13.7.0"
   }
 }
